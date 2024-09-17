@@ -1,4 +1,6 @@
-# Digital-departmant-of-Tomsk-State-University-
+![2024-09-17_14-58-08](https://github.com/user-attachments/assets/78d230c5-121d-4ff8-9cef-643a7e9a7a1d)
+
+# Задания по модулю "Разведочный анализ"
 ## 5000 фильмов IMDB с наибольшим рейтингом.
 1. Представлен датасет с данными о 5000 фильмах, имеющих наибольший рейтинг на сайте IMDb
 
